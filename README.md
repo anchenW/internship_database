@@ -14,4 +14,8 @@
 - https://unimelbom.retool.com/apps/078aff1c-3b0e-11ee-a3ea-03969603b9de/value_chain_db/app
 - However, due to the limitations of the non-business version, the page can only be accessed by invited users. Please feel free to email the authors to request access to the page.
 
+## Other Related Works:
+- CouchDB is another approach that was tried at the beginning to store information as JSON files. It could be a feasible option for building a larger database in the future.
+
+
 
